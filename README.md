@@ -1,6 +1,6 @@
 # DDoS Tester
 
-![DDoS Tester Banner](https://github.com/wanzxploit/ddos/main/banner.png)
+![DDoS Tester Banner](https://raw.githubusercontent.com/wanzxploit/ddos/main/banner.png)
 
 This is a simple DDoS (Distributed Denial of Service) testing tool written in Bash. This tool allows users to test the response of a target URL by sending multiple requests. Please note that this tool is intended for educational purposes only and should be used responsibly.
 
